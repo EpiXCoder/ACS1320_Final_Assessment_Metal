@@ -94,6 +94,8 @@ img.emojione {
   border-bottom: 1px solid black;
   display: inline-block;
   border-radius: 5px;
+  background-color: #55585e;
+  vertical-align: middle;
 }
 
 span.emoji {
