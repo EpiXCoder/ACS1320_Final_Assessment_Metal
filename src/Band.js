@@ -25,7 +25,7 @@ function Band(props) {
                     {styles}
                 </ul>
             </div>
-             {!(split === '-') ? <Like/> : null}
+             {(split === '-') ? <Like/> : null}
         </div>
 
     )
