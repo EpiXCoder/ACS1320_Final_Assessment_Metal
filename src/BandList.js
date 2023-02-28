@@ -43,7 +43,6 @@ function BandList(props) {
               placeholder="search"
               onChange={(e) => setQuery(e.target.value)}
             />
-            <button type="submit">Submit</button>
           </form>
         </div>
        
