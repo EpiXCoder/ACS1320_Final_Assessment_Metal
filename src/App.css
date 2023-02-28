@@ -1,5 +1,7 @@
 .App {
   text-align: center;
+  background-color: black;
+  color: white;
 }
 
 .App-logo {
@@ -35,4 +37,36 @@
   to {
     transform: rotate(360deg);
   }
+}
+
+/* Bandlist */
+.BandList{
+	display: grid;
+	grid-template-columns: 1fr 1fr 1fr;
+	max-width: 1200px;
+	margin: auto;
+	padding: 2em;
+}
+
+.band {
+  border:solid 1px #9a9c9e;
+  padding: 20px;
+}
+
+.band p {
+  padding: 0;
+  margin: 0;
+}
+
+.styles {
+  text-align: left;
+}
+
+.styles-heading{
+  margin-bottom: 0;
+  padding-bottom: 0;
+}
+
+.styles-ul{
+  margin-top: 0%;
 }
