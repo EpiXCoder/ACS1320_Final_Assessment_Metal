@@ -70,3 +70,34 @@
 .styles-ul{
   margin-top: 0%;
 }
+
+.like-container{
+  font-size: 30px;
+}
+
+img.emojione {
+  /* // Override any img styles to ensure Emojis are displayed inline */
+  margin: 0px !important;
+  display: inline !important;
+
+  height: auto;
+  width: 50px;
+}
+
+.like-container > *{
+  margin: 5px;
+  
+}
+
+.like-container button {
+  border-top: 1px solid black;
+  border-bottom: 1px solid black;
+  display: inline-block;
+  border-radius: 5px;
+}
+
+span.emoji {
+  font-size: 20px;
+  vertical-align: middle;
+  line-height: 2;
+}

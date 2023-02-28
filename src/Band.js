@@ -9,7 +9,7 @@ function Band(props) {
     const styleArray = style.split(',')
     // eslint-disable-next-line array-callback-return
     const styles = styleArray.map( (styleval) => 
-             <li> {styleval.trim()} </li>
+             <li key={styleval}> {styleval.trim()} </li>
     )
     return (
         <div className="band">

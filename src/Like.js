@@ -16,10 +16,10 @@ function Like() {
   };
 
   return (
-    <div>
-      <button onClick={handleDecrement}> 👎</button>
+    <div className='like-container'>
+      <button onClick={handleDecrement}><span className='emoji'>👎</span></button>
       <span>{count}</span>
-      <button onClick={handleIncrement}>👍 </button>
+      <button onClick={handleIncrement}><span className='emoji'>👍</span></button>
     </div>
   );
 }
