@@ -2,6 +2,10 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+## Deployed Page
+
+[https://epixcoder.github.io/ACS1320_Final_Assessment_Metal/](https://epixcoder.github.io/ACS1320_Final_Assessment_Metal/)
+
 ## Available Scripts
 
 In the project directory, you can run:
