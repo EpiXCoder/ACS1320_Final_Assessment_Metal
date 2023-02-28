@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/ACS1320_Final_Assessment_Metal/static/css/main.64202305.css",
-    "main.js": "/ACS1320_Final_Assessment_Metal/static/js/main.a0c34814.js",
+    "main.css": "/ACS1320_Final_Assessment_Metal/static/css/main.d6442f14.css",
+    "main.js": "/ACS1320_Final_Assessment_Metal/static/js/main.ea4e9a0e.js",
     "static/js/787.3bc5227c.chunk.js": "/ACS1320_Final_Assessment_Metal/static/js/787.3bc5227c.chunk.js",
     "index.html": "/ACS1320_Final_Assessment_Metal/index.html",
-    "main.64202305.css.map": "/ACS1320_Final_Assessment_Metal/static/css/main.64202305.css.map",
-    "main.a0c34814.js.map": "/ACS1320_Final_Assessment_Metal/static/js/main.a0c34814.js.map",
+    "main.d6442f14.css.map": "/ACS1320_Final_Assessment_Metal/static/css/main.d6442f14.css.map",
+    "main.ea4e9a0e.js.map": "/ACS1320_Final_Assessment_Metal/static/js/main.ea4e9a0e.js.map",
     "787.3bc5227c.chunk.js.map": "/ACS1320_Final_Assessment_Metal/static/js/787.3bc5227c.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.64202305.css",
-    "static/js/main.a0c34814.js"
+    "static/css/main.d6442f14.css",
+    "static/js/main.ea4e9a0e.js"
   ]
 }
